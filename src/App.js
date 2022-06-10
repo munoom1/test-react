@@ -19,7 +19,7 @@ function App() {
         </a>
       </header>
       <footer>
-        licens
+        licens by React
       </footer>
     </div>
   );
